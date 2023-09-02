@@ -38,7 +38,8 @@ Output :
 ```
 
 ## Soal 1.3
-![Image 1.3](https://github.com/JagoTeknikCourse/Latihan-Soal/img/img-1-3.png)
+![Image 1.3](https://github.com/JagoTeknikCourse/Latihan-Soal/blob/main/img/img-1-3.png)
+
 Bagaimana merubah koordinat pixel pada frame tersebut menjadi sebuah koordinat normal dengan offset pada (180,320)px?? Size frame = 320x640.
 Input program hanya 2 yaitu koordinat pixel, sedangkan outputnya juga 2 yaitu koordinat normal.
 
